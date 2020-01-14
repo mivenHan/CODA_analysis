@@ -1,2 +1,2 @@
-# CODA_analysis
+# Characterization-in-CODA
 This is the demand and contention characterization of CPU-side resources for DNN models.
